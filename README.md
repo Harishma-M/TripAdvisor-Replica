@@ -1,3 +1,6 @@
+# TripAdvisor-Replica
+Trip Advisor UI App is a front-end travel application designed to provide an engaging user experience for discovering tourist destinations, hotels, restaurants, and attractions. The project focuses on responsive layouts, intuitive navigation, and visually appealing UI components. It demonstrates modern web design principles and can serve as the foundation for a complete travel booking platform.
+
 # Welcome to [Harishma's](https://github.com/Harishma-M/) profile! <a href="https://github.com/Harishma-M/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
